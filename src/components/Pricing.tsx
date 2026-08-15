@@ -57,7 +57,7 @@ export default function Pricing() {
                     : "bg-ink text-white hover:bg-ai-blue"
                 }`}
               >
-                Đặt lịch Demo miễn phí
+                Đặt lịch miễn phí
               </a>
             </div>
           ))}
