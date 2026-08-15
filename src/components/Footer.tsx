@@ -25,7 +25,7 @@ const columns = [
       { label: "Quy trình triển khai", href: "#quy-trinh" },
       { label: "Bảng giá", href: "#bang-gia" },
       { label: "Câu hỏi thường gặp", href: "#faq" },
-      { label: "Đặt lịch demo", href: "#dat-lich-demo" },
+      { label: "Đặt lịch", href: "#dat-lich-demo" },
     ],
   },
 ];
