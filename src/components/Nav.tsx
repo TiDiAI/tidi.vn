@@ -46,14 +46,14 @@ export default function Nav() {
         </ul>
 
         <div className="hidden md:flex items-center gap-3">
-          <a href="#demo" className="text-sm font-semibold text-ink-soft hover:text-ink transition-colors">
-            Xem demo
+          <a href="#" className="text-sm font-semibold text-ink-soft hover:text-ink transition-colors">
+            Xem
           </a>
           <a
             href="#dat-lich-demo"
             className="rounded-full bg-ink text-white text-sm font-semibold px-5 py-2.5 hover:bg-ai-blue transition-colors shadow-soft"
           >
-            Đặt lịch Demo miễn phí
+            Đặt lịch miễn phí
           </a>
         </div>
 
@@ -91,7 +91,7 @@ export default function Nav() {
             onClick={() => setOpen(false)}
             className="mt-4 block text-center rounded-full bg-ink text-white text-sm font-semibold px-5 py-3"
           >
-            Đặt lịch Demo miễn phí
+            Đặt lịch miễn phí
           </a>
         </div>
       )}
