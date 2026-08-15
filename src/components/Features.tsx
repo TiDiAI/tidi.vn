@@ -21,7 +21,7 @@ function ChatbotVisual() {
 
 function LeadCaptureVisual() {
   const rows = [
-    ["Họ tên", "Nguyễn Thị A"],
+    ["Họ tên", "Trần Quang Thạch"],
     ["Nhu cầu", "Trị mụn viêm"],
     ["Ngân sách", "3 – 5 triệu"],
     ["Kênh vào", "Fanpage"],
