@@ -24,7 +24,7 @@ const jbMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://tidi.ai"),
+  metadataBase: new URL("https://tidiai.vn"),
   title: "TiDi AI — Biến tin nhắn thành khách hàng | AI Automation cho Sales & CSKH",
   description:
     "TiDi AI giúp doanh nghiệp tự động tư vấn, thu thập lead, follow-up và hỗ trợ đặt lịch 24/7 bằng AI — để đội ngũ tập trung vào những khách hàng thực sự có giá trị.",

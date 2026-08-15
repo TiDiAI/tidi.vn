@@ -47,8 +47,8 @@ export default function Footer() {
               thu lead, follow-up và hỗ trợ khách hàng 24/7.
             </p>
             <div className="mt-5 space-y-1.5 text-sm text-ink-soft">
-              <p>Email: hello@tidi.ai</p>
-              <p>Hotline: 1900 xxx xxx</p>
+              <p>Email: cs@tidiai.vn</p>
+              <p>Hotline: 088.630.7571</p>
             </div>
           </div>
 

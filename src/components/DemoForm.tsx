@@ -6,7 +6,7 @@ const industries = ["Spa", "Thẩm mỹ viện", "Nha khoa", "Phòng khám", "Sh
 
 // Dán URL Web App lấy được sau khi Deploy Google Apps Script (bước 5) vào đây.
 // Ví dụ: "https://script.google.com/macros/s/AKfycb.../exec"
-const GOOGLE_SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbxa6nQlb3l_rarFtLqkylOQHtGGi0klMljEAHXH3G__q5FdCQAGlKeEAylv6luEFkZiYw/exec";
+const GOOGLE_SHEET_ENDPOINT = "";
 
 export default function DemoForm() {
   const [status, setStatus] = useState<"idle" | "submitting" | "done" | "error">("idle");
@@ -161,7 +161,7 @@ export default function DemoForm() {
         disabled={status === "submitting"}
         className="w-full rounded-full bg-ink text-white font-semibold py-3.5 hover:bg-ai-blue transition-colors disabled:opacity-60"
       >
-        {status === "submitting" ? "Đang gửi..." : "Đặt lịch miễn phí"}
+        {status === "submitting" ? "Đang gửi..." : "Đặt lịch Demo miễn phí"}
       </button>
       <p className="text-[11.5px] text-ink-soft/60 text-center">
         Bằng việc gửi form, bạn đồng ý để TiDi AI liên hệ tư vấn qua điện thoại hoặc Zalo.

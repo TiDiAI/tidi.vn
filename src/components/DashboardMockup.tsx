@@ -52,7 +52,7 @@ export default function DashboardMockup() {
           <span className="h-2.5 w-2.5 rounded-full bg-[#F87171]/70" />
           <span className="h-2.5 w-2.5 rounded-full bg-[#FBBF24]/70" />
           <span className="h-2.5 w-2.5 rounded-full bg-[#34D399]/70" />
-          <span className="ml-3 text-[11px] font-mono text-white/40">tidi.ai/dashboard</span>
+          <span className="ml-3 text-[11px] font-mono text-white/40">tidiai.vn/dashboard</span>
         </div>
 
         <div className="p-4 sm:p-5 grid grid-cols-5 gap-3">
