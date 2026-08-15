@@ -6,7 +6,7 @@ const industries = ["Spa", "Thẩm mỹ viện", "Nha khoa", "Phòng khám", "Sh
 
 // Dán URL Web App lấy được sau khi Deploy Google Apps Script (bước 5) vào đây.
 // Ví dụ: "https://script.google.com/macros/s/AKfycb.../exec"
-const GOOGLE_SHEET_ENDPOINT = "";
+const GOOGLE_SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbxa6nQlb3l_rarFtLqkylOQHtGGi0klMljEAHXH3G__q5FdCQAGlKeEAylv6luEFkZiYw/exec";
 
 export default function DemoForm() {
   const [status, setStatus] = useState<"idle" | "submitting" | "done" | "error">("idle");
