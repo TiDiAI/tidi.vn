@@ -28,7 +28,7 @@ export default function Hero() {
               href="#dat-lich-demo"
               className="inline-flex items-center justify-center rounded-full bg-ink text-white font-semibold px-7 py-3.5 hover:bg-ai-blue transition-colors shadow-soft"
             >
-              Đặt lịch Demo miễn phí
+              Đặt lịch miễn phí
             </a>
             <a
               href="#demo"
