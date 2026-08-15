@@ -108,7 +108,7 @@ export default function DashboardMockup() {
           <div className="col-span-5 rounded-xl bg-white/[0.04] border border-white/[0.06] p-3.5 flex items-center justify-between">
             <div>
               <p className="text-[10px] font-mono text-white/45 mb-1">LỊCH HẸN HÔM NAY</p>
-              <p className="text-[13px] text-white/80 font-medium">14:00 Nguyễn A — Trị mụn · 16:00 Trần B — Tư vấn niềng răng</p>
+              <p className="text-[13px] text-white/80 font-medium">14:00 Dương Quang Trường — Trị mụn · 16:00 Trần Quang Thạch — Tư vấn niềng răng</p>
             </div>
             <span className="shrink-0 text-[10px] font-mono px-2.5 py-1 rounded-full bg-signal/15 text-signal border border-signal/30">
               Đã xác nhận
