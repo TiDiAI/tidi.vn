@@ -72,7 +72,7 @@ export default function DemoForm() {
         <div className="mx-auto h-12 w-12 rounded-full bg-signal/10 text-signal flex items-center justify-center text-xl">✓</div>
         <h3 className="mt-4 font-display font-semibold text-xl text-ink">Đã nhận được yêu cầu của bạn</h3>
         <p className="mt-2 text-sm text-ink-soft">
-          Đội ngũ TiDi AI sẽ liên hệ trong vòng 24 giờ làm việc để sắp xếp lịch demo phù hợp.
+          Đội ngũ TiDi AI sẽ liên hệ trong vòng 24 giờ làm việc để sắp xếp lịch phù hợp.
         </p>
       </div>
     );
@@ -161,7 +161,7 @@ export default function DemoForm() {
         disabled={status === "submitting"}
         className="w-full rounded-full bg-ink text-white font-semibold py-3.5 hover:bg-ai-blue transition-colors disabled:opacity-60"
       >
-        {status === "submitting" ? "Đang gửi..." : "Đặt lịch Demo miễn phí"}
+        {status === "submitting" ? "Đang gửi..." : "Đặt lịch miễn phí"}
       </button>
       <p className="text-[11.5px] text-ink-soft/60 text-center">
         Bằng việc gửi form, bạn đồng ý để TiDi AI liên hệ tư vấn qua điện thoại hoặc Zalo.
